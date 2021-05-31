@@ -1,0 +1,14 @@
+.gray{
+    background-color: rgb(179, 168, 168);
+}
+
+.titulo{
+    text-align: center;
+}
+.elemento{
+    padding: 20px;
+}
+*{
+    margin: 0;
+    
+}
